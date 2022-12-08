@@ -1,8 +1,7 @@
 # Notes
-
+I'm just doing tests with some libraries that interest me
 
 ```
-I'm just doing tests with some libraries that interest me
 Opciones:
       --help     Muestra ayuda                                        [booleano]
       --version  Muestra número de versión                            [booleano]
